@@ -4,7 +4,8 @@
        "Severity" : "Trivial. S5"
        "Priority" :"low"
        "Author" : "Romanova Valentina",
-       "Steps to reproduce" : "hover over the "start" button",
+       "Steps to reproduce" : "hover over the 'start' button",
        "OC": "Chrome Версия 97.0.4692.71"
        "Actual Result" : "button 'start' is white"
-       "Expected Result" : "button 'start' is blue" }
+       "Expected Result" : "button 'start' is blue" 
+ }
