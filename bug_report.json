@@ -1,8 +1,10 @@
  { 
-       "ID Bug": "bug number",
-       "Bug Summary": "short description",
-       "Severity" : "seriousness"
-       "Steps to reproduce" : "steps to play",
-       "Actual Result" : "The observable or generated behavior of a component or system during testing."
-       "Expected Result" : "what we expect to get after performing certain actions in the corresponding step."
-       "attachment": "foto,video,screenshot" }
+       "ID Bug": "B-514",
+       "Summary": "On the main site when hovering in italics on the "start" button, the color is white",
+       "Severity" : "Trivial. S5"
+       "Priority" :"low"
+       "Author" : "Romanova Valentina",
+       "Steps to reproduce" : "hover over the "start" button",
+       "OC": "Chrome Версия 97.0.4692.71"
+       "Actual Result" : "button 'start' is white"
+       "Expected Result" : "button 'start' is blue" }
