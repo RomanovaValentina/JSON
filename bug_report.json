@@ -1,6 +1,6 @@
  { 
        "ID Bug": "B-514",
-       "Summary": "On the main site when hovering in italics on the "start" button, the color is white",
+       "Summary": "On the main site when hovering in italics on the 'start' button, the color is white",
        "Severity" : "Trivial. S5"
        "Priority" :"low"
        "Author" : "Romanova Valentina",
